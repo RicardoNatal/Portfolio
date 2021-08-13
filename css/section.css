@@ -5,7 +5,7 @@
 
 .container-section {
     font-family: inherit;
-    max-width: 1320px;
+    max-width: 1220px;
     padding: 0 2rem;
     margin: 0 auto;
     height: 100%;
@@ -16,7 +16,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 3%;
     margin: 5% 0;
-    height: 49vh;
+    height: 70vh;
 }
 
 .card-section {
@@ -31,7 +31,7 @@
 
 
 .card_img img {
-    width: 100%;
+    width: 80%;
     height: auto;
     border-radius: 20px;
     width: 85%;
@@ -65,6 +65,7 @@
 }
 
 .link {
+    text-decoration: none;
     position: fixed;
     background-color: #D12322;
     padding: 23px 40px;
