@@ -4,6 +4,8 @@
 
 <h2 align="center">Obrigado pela atenção!!! </h2>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/ricardo-natal-schvambach-780986212/" target="_blank">
-  <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
 </a>
+  </div>
